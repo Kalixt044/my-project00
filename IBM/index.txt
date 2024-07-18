@@ -110,3 +110,37 @@ Normalización de bases de datos
 Lenguajes de consulta (SQL) y gestores de bases de datos
 Recuerda que esta es solo una descripción general de los temas tratados en cada clase. Cada clase del módulo profundizará en estos temas y te brindará una comprensión más detallada de los conceptos y técnicas relacionados con la arquitectura, el diseño y los patrones de software. ¡Espero que esta lista te sea útil!
 03
+
+ Módulo 4: Oportunidades Laborales y Conjunto de Habilidades en Ingeniería de Software, junto con los temas vistos en cada clase:
+
+Clase 1: Introducción a las Oportunidades Laborales en Ingeniería de Software
+
+Visión general de la industria de la ingeniería de software
+Diversas carreras y roles en ingeniería de software
+Tendencias y demanda laboral en el campo
+Clase 2: Conjunto de Habilidades Técnicas en Ingeniería de Software
+
+Lenguajes de programación populares en la industria
+Herramientas y tecnologías utilizadas en el desarrollo de software
+Habilidades en bases de datos y gestión de datos
+Clase 3: Conjunto de Habilidades de Comunicación y Colaboración
+
+Habilidades de comunicación oral y escrita
+Trabajo en equipo y colaboración en proyectos de software
+Habilidades de presentación y documentación técnica
+Clase 4: Conjunto de Habilidades de Resolución de Problemas y Pensamiento Crítico
+
+Enfoques para la resolución de problemas en ingeniería de software
+Pensamiento crítico y análisis de problemas complejos
+Toma de decisiones basada en datos y evaluación de soluciones
+Clase 5: Conjunto de Habilidades de Gestión de Proyectos y Planificación
+
+Metodologías de gestión de proyectos (Agile, Scrum, etc.)
+Planificación y estimación de proyectos de software
+Gestión de recursos y seguimiento del progreso del proyecto
+Clase 6: Desarrollo Profesional y Avance en la Carrera de Ingeniería de Software
+
+Desarrollo profesional continuo y aprendizaje permanente
+Opciones de educación y certificaciones en ingeniería de software
+Estrategias para el avance en la carrera y el crecimiento profesional
+Recuerda que esta es solo una descripción general de los temas tratados en cada clase. Cada clase del módulo profundizará en estos temas y te brindará una comprensión más detallada de las oportunidades laborales y el conjunto de habilidades necesarias en la ingeniería de software. ¡Espero que esta lista te sea útil!
