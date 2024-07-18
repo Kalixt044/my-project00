@@ -37,3 +37,76 @@ Diagrama de despliegue
 Recuerda que esta es solo una descripción general de los temas tratados en cada clase. Cada clase del módulo
 profundizará en estos temas y te brindará una comprensión más detallada de los conceptos y técnicas relacionados 
 con el desarrollo de software. ¡Espero que esta lista te sea útil!
+
+del Módulo 2: Introducción al Desarrollo de Software, junto con los temas vistos en cada clase:
+
+Clase 1: Introducción a la Programación
+
+Conceptos básicos de programación
+Lenguajes de programación populares
+Entornos de desarrollo integrados (IDE)
+Clase 2: Fundamentos de la Programación
+
+Variables y tipos de datos
+Estructuras de control (condicionales y bucles)
+Funciones y procedimientos
+Clase 3: Programación Orientada a Objetos
+
+Conceptos básicos de la programación orientada a objetos (POO)
+Clases y objetos
+Herencia y polimorfismo
+Clase 4: Estructuras de Datos
+
+Arrays y listas
+Pilas y colas
+Árboles y grafos
+Clase 5: Algoritmos y Complejidad
+
+Conceptos básicos de algoritmos
+Tipos de algoritmos (ordenamiento, búsqueda, etc.)
+Análisis de la complejidad algorítmica
+Clase 6: Desarrollo de Software en Equipo
+
+Metodologías de desarrollo de software (Agile, Scrum, etc.)
+Herramientas de colaboración y gestión de proyectos
+Buenas prácticas de trabajo en equipo
+Recuerda que esta es solo una descripción general
+de los temas tratados en cada clase. Cada clase del módulo 
+profundizará en estos temas y te brindará una 
+comprensión más detallada de los conceptos y técnicas 
+relacionados con el desarrollo de software.
+
+lista de las clases del Módulo 3: Arquitectura, Diseño y Patrones de Software, junto con los temas vistos en cada clase:
+
+Clase 1: Introducción a la Arquitectura de Software
+
+Conceptos básicos de arquitectura de software
+Principios de diseño de software
+Patrones de arquitectura comunes
+Clase 2: Diseño de Software Orientado a Objetos
+
+Principios SOLID de diseño de software
+Diseño de clases y objetos
+Relaciones entre clases (asociación, herencia, composición)
+Clase 3: Patrones de Diseño
+
+Introducción a los patrones de diseño
+Patrones creacionales (Singleton, Factory, Builder, etc.)
+Patrones estructurales (Adapter, Decorator, Proxy, etc.)
+Clase 4: Patrones de Diseño (Continuación)
+
+Patrones de comportamiento (Observer, Strategy, Template Method, etc.)
+Patrones arquitectónicos (MVC, MVVM, Microservices, etc.)
+Aplicación de patrones de diseño en casos prácticos
+Clase 5: Diseño de Interfaces de Usuario
+
+Principios de diseño de interfaces de usuario (UI)
+Elementos de diseño de UI (botones, formularios, menús, etc.)
+Herramientas y tecnologías para el diseño de UI
+Clase 6: Diseño de Bases de Datos
+
+Modelado de datos y diagramas ER
+Normalización de bases de datos
+Lenguajes de consulta (SQL) y gestores de bases de datos
+Recuerda que esta es solo una descripción general de los temas tratados en cada clase. Cada clase del módulo profundizará en estos temas y te brindará una comprensión más detallada de los conceptos y técnicas relacionados con la arquitectura, el diseño y los patrones de software. ¡Espero que esta lista te sea útil!
+03
