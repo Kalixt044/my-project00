@@ -1,2 +1,39 @@
-hola mundo
+¡Claro! Aquí tienes una lista de las clases del Módulo 1: SDLC - El Ciclo de Vida del Desarrollo de Software, junto con los temas vistos en cada clase:
 
+Clase 1: Introducción al Desarrollo de Software
+
+Propósito y uso de los identificadores en la programación
+Propósito y uso de los contenedores en la programación
+
+Clase 2: Programación Básica
+
+Tipos de datos y variables
+Constantes y variables
+Arreglos y vectores
+
+Clase 3: Arquitectura, Diseño y Patrones de Software
+
+Concepto de funciones en la programación
+Concepto de objetos en la programación
+Introducción a la programación orientada a objetos (POO)
+
+Clase 4: OOAD - Análisis y Diseño Orientado a Objetos
+
+Concepto de objetos y clases
+Propósito de un diagrama de clases
+Diseño orientado a objetos en relación con la arquitectura de software
+
+Clase 5: OOAD - Diagramas de Comportamiento
+
+Diagrama de casos de uso
+Diagrama de secuencia
+Diagrama de estado
+
+Clase 6: OOAD - Diagramas de Estructura
+
+Diagrama de clases
+Diagrama de componentes
+Diagrama de despliegue
+Recuerda que esta es solo una descripción general de los temas tratados en cada clase. Cada clase del módulo
+profundizará en estos temas y te brindará una comprensión más detallada de los conceptos y técnicas relacionados 
+con el desarrollo de software. ¡Espero que esta lista te sea útil!
