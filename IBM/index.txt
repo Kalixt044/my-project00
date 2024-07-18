@@ -17,13 +17,15 @@ Concepto de funciones en la programación
 Concepto de objetos en la programación
 Introducción a la programación orientada a objetos (POO)
 
-Clase 4: OOAD - Análisis y Diseño Orientado a Objetos
+Clase 4: OOAD - 
+Análisis y Diseño Orientado a Objetos
 
 Concepto de objetos y clases
 Propósito de un diagrama de clases
 Diseño orientado a objetos en relación con la arquitectura de software
 
-Clase 5: OOAD - Diagramas de Comportamiento
+Clase 5: 
+OOAD - Diagramas de Comportamiento
 
 Diagrama de casos de uso
 Diagrama de secuencia
@@ -174,36 +176,47 @@ Evaluación de los conocimientos adquiridos durante el curso
 Retroalimentación y resultados del examen final
 Recuerda que esta es solo una descripción general de las clases y actividades del módulo. Cada clase del módulo te guiará a través de los pasos necesarios para completar la actividad final y prepararte para el examen final del curso. 
 
-Módulo 6: Introducción a la Ingeniería de Software:
+Módulo 6:
+Introducción a la Ingeniería de Software:
 
-Clase 1: Introducción a la Ingeniería de Software
+Clase 1:
+Introducción a la Ingeniería de Software
 
 Conceptos básicos de ingeniería de software
 Ciclo de vida del desarrollo de software
 Metodologías y enfoques de desarrollo de software
-Clase 2: Introducción al Desarrollo de Software
+
+Clase 2: 
+Introducción al Desarrollo de Software
 
 Fundamentos de programación y desarrollo de software
 Lenguajes de programación populares
 Herramientas y entornos de desarrollo de software
-Clase 3: Principios de Diseño de Software
+
+Clase 3:
+Principios de Diseño de Software
 
 Principios de diseño de software
 Patrones de diseño comunes
 Mejores prácticas de diseño de software
-Clase 4: Arquitectura de Software
+
+Clase 4:
+Arquitectura de Software
 
 Conceptos y principios de arquitectura de software
 Patrones y estilos arquitectónicos
 Diseño y documentación de la arquitectura de software
-Clase 5: Pruebas de Software
+
+Clase 5:
+Pruebas de Software
 
 Importancia de las pruebas de software
 Tipos de pruebas de software (unitarias, de integración, de sistema, etc.)
 Herramientas y técnicas de pruebas de software
-Clase 6: Gestión de Proyectos de Software
+
+Clase 6:
+Gestión de Proyectos de Software
 
 Fundamentos de gestión de proyectos de software
-Metodologías ágiles y tradicionales de gestión de proyectos
-Planificación, seguimiento y control de proyectos de software
-Recuerda que este es solo un resumen de los temas tratados en cada clase. Cada clase del módulo profundizará en estos temas y te brindará una comprensión más detallada de la ingeniería de software y sus diferentes aspectos. 
+Metodologías ágiles y tradicionales de gestión de proyectos Planificación, 
+seguimiento y control de proyectos de software 
